@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b98bbeb.chunk.css",
+    "main.js": "/static/js/main.70f07e82.chunk.js",
+    "main.js.map": "/static/js/main.70f07e82.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bd76a4c6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bd76a4c6.js.map",
+    "static/js/2.c09c94ce.chunk.js": "/static/js/2.c09c94ce.chunk.js",
+    "static/js/2.c09c94ce.chunk.js.map": "/static/js/2.c09c94ce.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.198a7a1a744f325ee2452d19167f345b.js": "/precache-manifest.198a7a1a744f325ee2452d19167f345b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3b98bbeb.chunk.css.map": "/static/css/main.3b98bbeb.chunk.css.map",
+    "static/js/2.c09c94ce.chunk.js.LICENSE.txt": "/static/js/2.c09c94ce.chunk.js.LICENSE.txt",
+    "static/media/better-kubernetes.svg": "/static/media/better-kubernetes.3242726a.svg",
+    "static/media/styles.css": "/static/media/header-background.82f026e2.png",
+    "static/media/built-in-prometheus-stats.svg": "/static/media/built-in-prometheus-stats.7c7b1c76.svg",
+    "static/media/context-aware-terminal.svg": "/static/media/context-aware-terminal.b0f068bb.svg",
+    "static/media/header-lens.png": "/static/media/header-lens.78069521.png",
+    "static/media/logo.svg": "/static/media/logo.4d89dba8.svg",
+    "static/media/multi-cluster-management.svg": "/static/media/multi-cluster-management.6cb8bb79.svg",
+    "static/media/workspaces.svg": "/static/media/workspaces.1e140575.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd76a4c6.js",
+    "static/js/2.c09c94ce.chunk.js",
+    "static/css/main.3b98bbeb.chunk.css",
+    "static/js/main.70f07e82.chunk.js"
+  ]
+}
