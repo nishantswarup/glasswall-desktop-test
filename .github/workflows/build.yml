@@ -71,6 +71,12 @@ jobs:
       - name: Install Snapcraft
         if: startsWith(matrix.os, 'ubuntu')
         uses: samuelmeuli/action-snapcraft@v1
+        
+      - name: Install Snapcraft
+        uses: samuelmeuli/action-snapcraft@v1
+        with:
+          snapcraft_token: ${{ secrets.snapcraft_token }}
+          skip_install: true
        
       - name: Release electron app - Unix
         if: startsWith(matrix.os, 'ubuntu')
